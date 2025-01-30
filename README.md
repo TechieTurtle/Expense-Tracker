@@ -14,15 +14,18 @@ A simple Expense Tracker application using Python, Tkinter, and SQLite. This too
 
 ## 🛠 Installation  
 
-1. **Clone the Repository**  
-   git clone https://github.com/TechieTurtle/Expense-Tracker.git
-   cd Expense-Tracker
+1. **Clone the Repository**
+>>git clone https://github.com/TechieTurtle/Expense-Tracker.git
 
-2. **Install Dependencies** 
-    pip install matplotlib tk
+>>cd Expense-Tracker
+
+2. **Install Dependencies**
+
+>>pip install matplotlib tk
 
 3. **Run the Application**
-    python gui.py
+
+>>python gui.py
 
 **Usage:**
 
@@ -52,6 +55,9 @@ A simple Expense Tracker application using Python, Tkinter, and SQLite. This too
 **🛠 Technologies Used**
 
 -->Python
+
 -->Tkinter (for GUI)
+
 -->SQLite (for database)
+
 -->Matplotlib (for expense visualization)
