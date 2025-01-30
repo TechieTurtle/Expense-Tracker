@@ -64,3 +64,7 @@ A simple and easy-to-use Expense Tracker application built with Python, Tkinter,
 - **Tkinter** (GUI)
 - **SQLite** (Database)
 - **Matplotlib** (Charts & Visualization)
+
+- YOU CAN TRY MY APP WITH THE BELOW .exe file:
+
+  https://drive.google.com/file/d/1f87P-Ih4FusPfzj8TZBVwIKByfp3UPWQ/view?usp=drive_link
