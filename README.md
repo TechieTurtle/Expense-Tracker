@@ -1,59 +1,66 @@
-# 💰 Expense Tracker  
+# 💰 Expense Tracker
 
-A simple Expense Tracker application using Python, Tkinter, and SQLite. This tool helps you record, view, and visualize your expenses easily.
+A simple and easy-to-use Expense Tracker application built with Python, Tkinter, and SQLite. It helps you record, manage, and visualize your expenses effortlessly.
 
 ---
 
-## 📌 Features  
-✅ Add, View, and Delete Expenses  
-✅ Stores data using SQLite database  
-✅ GUI built with Tkinter  
-✅ Pie Chart visualization using Matplotlib  
+## 📌 Features
 
+- ✅ Add, View, and Delete Expenses
+- ✅ Stores data securely using SQLite
+- ✅ User-friendly GUI with Tkinter
+- ✅ Visualize expenses with a Pie Chart (Matplotlib)
 
-## 🛠 **Installation**  
+---
 
-1. **Clone the Repository**  
-   >>git clone https://github.com/TechieTurtle/Expense-Tracker.git
-   >>cd Expense-Tracker
+## 🛠 Installation
+
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/TechieTurtle/Expense-Tracker.git
+   cd Expense-Tracker
+   ```
 
 2. **Install Dependencies**
-    >>pip install matplotlib tk
+   ```sh
+   pip install matplotlib tk
+   ```
 
 3. **Run the Application**
-    >>python gui.py
+   ```sh
+   python gui.py
+   ```
 
-**Usage:**
+---
 
--->Add an Expense: Enter Date, Category, Amount, and Description, then click "Add Expense".
+## 🚀 Usage
 
--->View Expenses: The list will display all saved expenses.
+- **Add Expense:** Enter Date, Category, Amount, and Description, then click "Add Expense".
+- **View Expenses:** Displays all recorded expenses.
+- **Delete Expense:** Select an expense and click "Delete Expense".
+- **Expense Chart:** View a Pie Chart of expenses by category.
 
--->Delete an Expense: Select an expense from the list and click "Delete Expense".
+---
 
--->View Expense Chart: A Pie Chart will show the expense distribution by category.
-
-**Screenshots**
+## 📸 Screenshots
 
 ### ✅ Home Page
-![Home Page Screenshot](images/Home.png)  
+![Home Page](images/Home.png)
 
-### ✅ Expense Added  
-![Expense Added Screenshot](images/Expense Added.png)
+### ✅ Expense Added
+![Expense Added](images/Expense_Added.png)
 
-### ✅ Expense Deleted  
-![Expense Deleted Screenshot](images/Expense Deleted.png)
+### ✅ Expense Deleted
+![Expense Deleted](images/Expense_Deleted.png)
 
-### ✅ Expense Chart  
-![Expense Chart Screenshot](images/Expense Chart.png)
+### ✅ Expense Chart
+![Expense Chart](images/Expense_Chart.png)
 
+---
 
-**🛠 Technologies Used**
+## 🛠 Technologies Used
 
--->Python
-
--->Tkinter (for GUI)
-
--->SQLite (for database)
-
--->Matplotlib (for expense visualization)
+- **Python** (Core functionality)
+- **Tkinter** (GUI)
+- **SQLite** (Database)
+- **Matplotlib** (Charts & Visualization)
