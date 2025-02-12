@@ -68,5 +68,3 @@ A simple and easy-to-use Expense Tracker application built with Python, Tkinter,
 - YOU CAN TRY MY APP WITH THE BELOW .exe file or CLI version with below link provided:
 
   https://drive.google.com/file/d/1f87P-Ih4FusPfzj8TZBVwIKByfp3UPWQ/view?usp=drive_link
-
-  https://replit.com/join/ppezepqolq-nithishyerasani
